@@ -1,5 +1,7 @@
 # HelloWorldElixir
 
+First, you have to install Elixir and Erlang (since Elixir runs on Erlang virtual machine BEAM) => click [here](https://elixir-lang.org/install.html).
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
